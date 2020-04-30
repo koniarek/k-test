@@ -12,7 +12,7 @@
     "axios": "0.15.2",
     "font-awesome": "4.6.3",
     "graphql-tag": "^1.0.0",
-    "jquery": "3.1.1",
+    "jquery": "3.5.0",
     "lodash": "4.17.2",
     "markdown-to-react-components": "^0.2.1",
     "mobx": "2.6.2",
