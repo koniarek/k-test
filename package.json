@@ -13,7 +13,7 @@
     "font-awesome": "4.6.3",
     "graphql-tag": "^1.0.0",
     "jquery": "3.1.1",
-    "lodash": "4.17.2",
+    "lodash": "4.17.19",
     "markdown-to-react-components": "^0.2.1",
     "mobx": "2.6.2",
     "mobx-react": "3.5.9",
